@@ -1,2 +1,3 @@
-# weather-app-demo
-demo for weather app
+Weather App
+# Weather Application
+#### [_weather-app-demo_](https://s3-eu-west-1.amazonaws.com/aksamit-wether-app-demo/index.html) is a demo application designed with [*_AngularJS_*](https://angularjs.org/) frame using [*_Bootstap_*](http://getbootstrap.com/) template. It is a quick project for a demo, where in the application uses [_Yahoo weather API_](https://developer.yahoo.com/weather/) for featching the weather for a specific location provided as an input making use of the endpint. The application also uses [_google map API_](https://developers.google.com/maps/?hl=en) for providing an ajax call to find locations. 
